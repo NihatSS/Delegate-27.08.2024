@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\bin\Debug\net6.0\Delegate_Task.exe
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\bin\Debug\net6.0\Delegate_Task.deps.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\bin\Debug\net6.0\Delegate_Task.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\bin\Debug\net6.0\Delegate_Task.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\bin\Debug\net6.0\Delegate_Task.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\obj\Debug\net6.0\Delegate_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\obj\Debug\net6.0\Delegate_Task.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\obj\Debug\net6.0\Delegate_Task.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\obj\Debug\net6.0\Delegate_Task.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\obj\Debug\net6.0\Delegate_Task.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\obj\Debug\net6.0\refint\Delegate_Task.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\obj\Debug\net6.0\Delegate_Task.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\obj\Debug\net6.0\Delegate_Task.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\Delegate_Task\Delegate_Task\obj\Debug\net6.0\ref\Delegate_Task.dll
